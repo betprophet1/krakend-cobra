@@ -16,7 +16,7 @@ import (
 
 	"github.com/devopsfaith/krakend-cobra"
 	"github.com/devopsfaith/krakend-viper"
-	"github.com/luraproject/badboyd/config"
+	"github.com/luraproject/betprophet1/config"
 	"github.com/luraproject/lura/logging"
 	"github.com/luraproject/lura/proxy"
 	krakendgin "github.com/luraproject/lura/router/gin"

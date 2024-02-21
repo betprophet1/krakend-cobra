@@ -3,12 +3,12 @@ package main
 import (
 	"os"
 
-	cmd "github.com/badboyd/krakend-cobra"
-	viper "github.com/badboyd/krakend-viper"
-	"github.com/badboyd/lura/config"
-	"github.com/badboyd/lura/logging"
-	"github.com/badboyd/lura/proxy"
-	"github.com/badboyd/lura/router/gin"
+	cmd "github.com/betprophet1/krakend-cobra"
+	viper "github.com/betprophet1/krakend-viper"
+	"github.com/betprophet1/lura/config"
+	"github.com/betprophet1/lura/logging"
+	"github.com/betprophet1/lura/proxy"
+	"github.com/betprophet1/lura/router/gin"
 )
 
 func main() {

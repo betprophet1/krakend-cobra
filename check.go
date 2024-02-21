@@ -6,10 +6,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/badboyd/lura/config"
-	"github.com/badboyd/lura/logging"
-	"github.com/badboyd/lura/proxy"
-	krakendgin "github.com/badboyd/lura/router/gin"
+	"github.com/betprophet1/lura/config"
+	"github.com/betprophet1/lura/logging"
+	"github.com/betprophet1/lura/proxy"
+	krakendgin "github.com/betprophet1/lura/router/gin"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/cobra"
 )
