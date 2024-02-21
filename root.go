@@ -4,8 +4,8 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/badboyd/lura/config"
-	"github.com/badboyd/lura/core"
+	"github.com/betprophet1/lura/config"
+	"github.com/betprophet1/lura/core"
 	"github.com/spf13/cobra"
 )
 
